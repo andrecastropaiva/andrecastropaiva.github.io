@@ -6,17 +6,19 @@
 
 <h1>Hey, I'm Andre 👋 </h1>
 <strong>Junior Web Developer</strong> from the United Kingdom. I am self-taught and currently enrolled in a Web Development Bootcamp at Bath Spa University.
-- 💞️ I’m looking to collaborate on open source projects.
-- ⚡️ Technology, Football, NBA, travelling and hiking are my passions.
-- 🐦 You can reach me at @andreca5tro
-- 👨🏻‍💻 Happy Coding!
+<ul>
+<li> 💞️ I’m looking to collaborate on open source projects.</li>
+<li>- ⚡️ Technology, Football, NBA, travelling and hiking are my passions.</li>
+<li> 🐦 You can reach me at @andreca5tro</li>
+<li>👨🏻‍💻 Happy Coding!</li>
+</ul>
 
 ## Current Stack
 <table>
   <tr>
      <td align="center" width="96">
       <a href="">
-        <img src="./logos/HTML" width="48" height="48" alt="HTML logo" />
+        <img src="./logos/HTML.jpeg" width="48" height="48" alt="HTML logo" />
       </a>
       <br>HTML
     </td>
