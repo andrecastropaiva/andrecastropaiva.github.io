@@ -42,15 +42,21 @@
     </td>
      <td align="center" width="96">
       <a href="">
-        <img src="./logos/node.jpeg" width="48" height="48" alt="Node logo" />
+        <img src="./logos/node.jpeg" width="60" height="48" alt="Node logo" />
       </a>
       <br>Node.js
     </td>
     <td align="center" width="96">
       <a href="" >
-        <img src="./logos/React.jpeg" width="48" height="48" alt="React logo" />
+        <img src="./logos/React.jpeg" width="60" height="48" alt="React logo" />
       </a>
       <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="" >
+        <img src="./logos/less.jpeg" width="60" height="48" alt="LESS logo" />
+      </a>
+      <br>LESS
     </td>
   </tr>
   </table>
