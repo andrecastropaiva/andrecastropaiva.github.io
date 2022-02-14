@@ -24,31 +24,31 @@
     </td>
        <td align="center" width="96">
       <a href="">
-        <img src="./resources/logos/CSS" width="48" height="48" alt="CSS logo" />
+        <img src="./logos/CSS.jpeg" width="48" height="48" alt="CSS logo" />
       </a>
       <br>CSS
     </td>
       <td align="center" width="96">
       <a href="">
-        <img src="./logos/Javascript" width="48" height="48" alt="Javascript logo" />
+        <img src="./logos/Javascript.jpeg" width="48" height="48" alt="Javascript logo" />
       </a>
       <br>Javascript
     </td>
      <td align="center" width="96">
       <a href="">
-        <img src="./logos/Bootstrap" width="48" height="48" alt="Bootstrap logo" />
+        <img src="./logos/Bootstrap.jpeg" width="48" height="48" alt="Bootstrap logo" />
       </a>
       <br>Bootstrap
     </td>
      <td align="center" width="96">
       <a href="">
-        <img src="./logos/node" width="48" height="48" alt="Node logo" />
+        <img src="./logos/node.jpeg" width="48" height="48" alt="Node logo" />
       </a>
       <br>Node.js
     </td>
     <td align="center" width="96">
       <a href="" >
-        <img src="./logos/React" width="48" height="48" alt="React logo" />
+        <img src="./logos/React.jpeg" width="48" height="48" alt="React logo" />
       </a>
       <br>React
     </td>
