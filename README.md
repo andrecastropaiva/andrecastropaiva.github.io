@@ -58,5 +58,11 @@
       </a>
       <br>LESS
     </td>
+    <td align="center" width="96">
+      <a href="" >
+        <img src="./logos/figma.jpeg" width="48" height="48" alt="Figma logo" />
+      </a>
+      <br>Figma
+    </td>
   </tr>
   </table>
