@@ -1,9 +1,3 @@
-
-
-
-
-
-
 <h1>Hey, I'm Andre 👋 </h1>
 <strong>Junior Web Developer</strong> from the United Kingdom. I am self-taught and currently enrolled in a Web Development Bootcamp at Bath Spa University.
 <ul>
