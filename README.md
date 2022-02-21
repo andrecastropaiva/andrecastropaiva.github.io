@@ -7,7 +7,7 @@
 <li>👨🏻‍💻 Happy Coding!</li>
 </ul>
 
-## Current Stack
+<h2>Front-End Stack</h2>
 <table>
   <tr>
      <td align="center" width="96">
@@ -28,23 +28,32 @@
       </a>
       <br>Javascript
     </td>
-     <td align="center" width="96">
-      <a href="">
-        <img src="./logos/Bootstrap.jpeg" width="48" height="48" alt="Bootstrap logo" />
-      </a>
-      <br>Bootstrap
-    </td>
+    </table>
+    <h2> Runtime environment</h2>
+    <table>
      <td align="center" width="96">
       <a href="">
         <img src="./logos/node.jpeg" width="60" height="48" alt="Node logo" />
       </a>
       <br>Node.js
     </td>
+    </table>
+    <h2>Libraries</h2>
+    <table>
     <td align="center" width="96">
       <a href="" >
         <img src="./logos/React.jpeg" width="60" height="48" alt="React logo" />
       </a>
       <br>React
+    </td>
+  </table>
+     <h2>Design Frameworks</h2>
+    <table>
+      <td align="center" width="96">
+      <a href="">
+        <img src="./logos/Bootstrap.jpeg" width="48" height="48" alt="Bootstrap logo" />
+      </a>
+      <br>Bootstrap
     </td>
     <td align="center" width="96">
       <a href="" >
@@ -52,6 +61,9 @@
       </a>
       <br>LESS
     </td>
+    </table>
+    <h2>Prototyping</h2>
+    <table>
     <td align="center" width="96">
       <a href="" >
         <img src="./logos/figma.jpeg" width="48" height="48" alt="Figma logo" />
