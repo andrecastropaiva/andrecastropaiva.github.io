@@ -3,5 +3,5 @@ body {
 }
 
 table {
-  justify-content: center;
+  display: initial;
 }
