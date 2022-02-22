@@ -31,21 +31,19 @@ ul {
 }
 
 .logo-html, .logo-css, .logo-javascript, .logo-bootstrap, .logo-figma {
-  height: 48px;
-  width: 48px;
+  height: 60px;
+  width: 60px;
 }
 
 .logo-react, .logo-node, .logo-less {
-  height: 48px;
-  width: 60px;
+  height: 55px;
+  width: 75px;
 }
 
 .prototyping {
   text-align: center;
-  width: 96px;
 }
 
 .runtime-env {
   text-align: center;
-  width: 96px;
 }
