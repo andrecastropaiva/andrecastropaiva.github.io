@@ -16,3 +16,29 @@ ul {
   line-height: 1.3cm;
   list-style-type: none;
 }
+
+
+.front-end-stack {
+  text-align: center;
+  width: 96px;
+}
+
+.frameworks {
+  text-align: center;
+  width: 96px;
+}
+
+.libraries {
+  text-align: center;
+  width: 96px;
+}
+
+.prototyping {
+  text-align: center;
+  width: 96px;
+}
+
+.runtime-env {
+  text-align: center;
+  width: 96px;
+}
