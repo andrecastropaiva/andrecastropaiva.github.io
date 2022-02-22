@@ -33,6 +33,16 @@ ul {
   width: 96px;
 }
 
+.logo-html, .logo-css, .logo-javascript, .logo-bootstrap, .logo-figma {
+  height: 48px;
+  width: 48px;
+}
+
+.logo-react, .logo-node, .logo-less {
+  height: 48px;
+  width: 60px;
+}
+
 .prototyping {
   text-align: center;
   width: 96px;
