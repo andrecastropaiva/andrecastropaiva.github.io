@@ -34,12 +34,12 @@ ul {
   text-align: center;
 }
 
-.logo-html, .logo-css, .logo-javascript, .logo-bootstrap, .logo-figma {
+td .logo-html, .logo-css, .logo-javascript, .logo-bootstrap, .logo-figma {
   height: 60px;
   width: 60px;
 }
 
-.logo-react, .logo-node, .logo-less {
+td .logo-react, .logo-node, .logo-less {
   height: 55px;
   width: 75px;
 }
