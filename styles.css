@@ -1,11 +1,15 @@
 body {
   font-family: monospace;
+  font-size: 1em;
   text-align: center;
+}
+
+h2 {
+  padding: 25px;
 }
 
 table {
   display: initial;
-  padding: 25px;
 }
 
 ul {
