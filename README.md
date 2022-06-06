@@ -40,7 +40,7 @@
     </td>
        <td align="center" width="96">
       <a href="">
-        <img src="./logos/CSS.jpeg" width="48" height="48" alt="SQL logo" />
+        <img src="./logos/sql.jpeg" width="48" height="48" alt="SQL logo" />
       </a>
          <br>SQL
     </td>
