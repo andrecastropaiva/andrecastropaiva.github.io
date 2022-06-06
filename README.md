@@ -34,7 +34,7 @@
   <tr>
      <td align="center" width="96">
       <a href="">
-        <img src="./logos/HTML.jpeg" width="48" height="48" alt="Python logo" />
+        <img src="./logos/python.png" width="48" height="48" alt="Python logo" />
       </a>
       <br>Python
     </td>
