@@ -42,6 +42,7 @@
       <a href="">
         <img src="./logos/CSS.jpeg" width="48" height="48" alt="SQL logo" />
       </a>
+         <br>SQL
     </td>
  </table>
     <h2> Runtime environment</h2>
