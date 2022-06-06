@@ -29,6 +29,21 @@
       <br>Javascript
     </td>
     </table>
+    <h2>Back-End Stack</h2>
+<table>
+  <tr>
+     <td align="center" width="96">
+      <a href="">
+        <img src="./logos/HTML.jpeg" width="48" height="48" alt="Python logo" />
+      </a>
+      <br>Python
+    </td>
+       <td align="center" width="96">
+      <a href="">
+        <img src="./logos/CSS.jpeg" width="48" height="48" alt="SQL logo" />
+      </a>
+    </td>
+ </table>
     <h2> Runtime environment</h2>
     <table>
      <td align="center" width="96">
