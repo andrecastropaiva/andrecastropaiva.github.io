@@ -1,5 +1,5 @@
 <h1>Hey, I'm Andre 👋 </h1>
-<strong>Junior Web Developer</strong> from the United Kingdom. I am self-taught and currently enrolled in a Web Development Bootcamp at Bath Spa University.
+<strong>Data Engineer/Web Developer</strong> from the United Kingdom. I am self-taught and have earned a certification in a Web Development Bootcamp from Bath Spa University.
 <ul>
 <li>💞️ I’m looking to collaborate on open source projects.</li>
 <li>⚡️ Tech, Programming, Football, Sports, travelling and hiking are my passions.</li>
