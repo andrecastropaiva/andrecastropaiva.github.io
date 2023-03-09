@@ -13,7 +13,7 @@ I did 3 months intensive training in Data engineering using Python and SQL and h
 
 <ul>
 <li>💞️ I’m looking to collaborate on open source projects alongside my work.</li>
-<li>⚡️ Tech, Programming, Football, Sports, travelling and hiking are my passions.</li>
+<li>⚡️ My hobbies are Football, NFL, NBA, UFC, F1, travelling and hiking.</li>
 </ul>
 👨🏻‍💻 Happy Coding!
 
