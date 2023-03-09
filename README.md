@@ -1,9 +1,19 @@
 <h1>Hey, I'm Andre 👋 </h1>
-<strong>Data Engineer/Web Developer</strong> from the United Kingdom. I hold a 1st degree in Business Management from The Open University Business School.I am self-taught and have earned a certification in a Web Development Bootcamp from Bath Spa University.
+<strong>I’m a Data Engineer with interest in Data Science/Machine Learning/AI</strong> from the United Kingdom.
+
+My professional experience has taught me to be a great team player, an attentive listener and enhanced my attention to detail. This alongside my educational accomplishments enable me to pursue my career goals and follow my passions in Technology and Business.
+
+I hold a First Class Honours degree in Business Management from The Open University Business School. This was accomplished while working full-time and took a great deal of organisational and time management skills.
+
+I love to learn new skills, I began my journey in tech with Web development and since then I never stopped up-skill. I hold a certificate in Responsive Web Development from freeCodeCamp by self-taught online, here I learned HTML, CSS and JavaScript. I also hold a certificate in Web Development from Bath Spa University, where I learned an understanding of Semantic HTML, CSS, LESS, Bootstrap, JavaScript, React, Node.js, prototyping in Figma and work with browser tools. Both of these certificates were accomplished while working full-time.
+
+From there, I reflected, and realised that my passion is working with data, since my Business studies I always enjoyed doing business analysis and finding data insights.
+I did 3 months intensive training in Data engineering using Python and SQL and hold a certification of accomplishment. Alongside that, I also hold various Azure Data Engineering, Cloud computing, Data Science and AI as well as Databricks certifications.
+
+
 <ul>
-<li>💞️ I’m looking to collaborate on open source projects.</li>
+<li>💞️ I’m looking to collaborate on open source projects alongside my work.</li>
 <li>⚡️ Tech, Programming, Football, Sports, travelling and hiking are my passions.</li>
-<li>🐦 You can reach me at @andreca5tro</li>
 <li>👨🏻‍💻 Happy Coding!</li>
 </ul>
 
@@ -85,6 +95,27 @@
         <img src="./logos/figma.jpeg" width="48" height="48" alt="Figma logo" />
       </a>
       <br>Figma
+    </td>
+  </table>
+    <h2>Cloud</h2>
+    <table>
+    <td align="center" width="96">
+      <a href="" >
+        <img src="./logos/azure.png" width="48" height="48" alt="Azure logo" />
+      </a>
+      <br>Azure
+    </td>
+    <td align="center" width="96">
+      <a href="" >
+        <img src="./logos/databricks.png" width="48" height="48" alt="Databricks logo" />
+      </a>
+      <br>Databricks
+    </td>
+    <td align="center" width="96">
+      <a href="" >
+        <img src="./logos/aws.png" width="48" height="48" alt="AWS logo" />
+      </a>
+      <br>AWS
     </td>
   </tr>
   </table>
