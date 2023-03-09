@@ -1,5 +1,5 @@
 <h1>Hey, I'm Andre 👋 </h1>
-<strong>I’m a Data Engineer with interest in Data Science/Machine Learning/AI.</strong>
+<strong>I’m a Data Engineer with interest in Data Science, Machine Learning and AI.</strong>
 
 My professional experience has taught me to be a great team player, an attentive listener and enhanced my attention to detail. This alongside my educational accomplishments enable me to pursue my career goals and follow my passions in Technology and Business.
 
