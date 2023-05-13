@@ -28,6 +28,7 @@ I did 3 months intensive training in Data engineering using Python and SQL and h
 
 <br>
 <br>
+<h2>Skills & Stack</h2>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
