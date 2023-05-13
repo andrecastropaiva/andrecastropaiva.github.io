@@ -37,3 +37,6 @@ I did 3 months intensive training in Data engineering using Python and SQL and h
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/azure/azure-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/aws/aws-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/databricks/databricks-ar21.svg"></code>
