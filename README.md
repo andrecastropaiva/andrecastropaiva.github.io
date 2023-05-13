@@ -25,7 +25,7 @@ I did 3 months intensive training in Data engineering using Python and SQL and h
 <br>
 <h2>Profile Statistics</h2>
 <code><img width= "40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrecastropaiva&theme=dark"></code>
-<code><img width= "55%" src="https://github-readme-stats.vercel.app/api?username=andrecastropaiva&show_icons=true&theme=dark"></code>
+<code><img height= "50%" width= "55%" src="https://github-readme-stats.vercel.app/api?username=andrecastropaiva&show_icons=true&theme=dark"></code>
 <code><img width= "40%" src="https://github-readme-streak-stats.herokuapp.com/?user=andrecastropaiva&theme=dark"></code>
 
 <br>
