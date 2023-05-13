@@ -20,7 +20,7 @@ I did 3 months intensive training in Data engineering using Python and SQL and h
 <br>
 <br>
 <h2>Just for fun!</h2>
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<code><img width= "50%" src="https://readme-jokes.vercel.app/api" alt="Jokes Card"></code>
 <br>
 <br>
 <h2>Profile Statistics</h2>
