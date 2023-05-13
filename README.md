@@ -17,6 +17,8 @@ I did 3 months intensive training in Data engineering using Python and SQL and h
 </ul>
 👨🏻‍💻 Happy Coding!
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrecastropaiva"/>
+
 <h2>Front-End Stack</h2>
 <table>
   <tr>
