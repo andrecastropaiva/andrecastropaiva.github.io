@@ -20,7 +20,9 @@ I did 3 months intensive training in Data engineering using Python and SQL and h
 
 <br>
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrecastropaiva&theme=dark"/><img height= 200 src="https://github-readme-stats.vercel.app/api?username=andrecastropaiva&show_icons=true&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrecastropaiva&theme=dark"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=andrecastropaiva&show_icons=true&theme=dark"/>
 
 <h2>Front-End Stack</h2>
 <table>
