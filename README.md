@@ -18,7 +18,8 @@ I did 3 months intensive training in Data engineering using Python and SQL and h
 👨🏻‍💻 Happy Coding!
 
 <br>
-![Jokes Card](https://readme-jokes.vercel.app/api)<br>
+![Jokes Card](https://readme-jokes.vercel.app/api)
+<br>
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrecastropaiva&theme=dark"/>
 
