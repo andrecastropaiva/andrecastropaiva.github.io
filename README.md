@@ -16,7 +16,8 @@ I did 3 months intensive training in Data engineering using Python and SQL and h
 <li>⚡️ My hobbies are Sports (Football, NFL, NBA, UFC, F1), exercising, travelling and hiking.</li>
 </ul>
 👨🏻‍💻 Happy Coding!
-
+<br>
+<br>
 <br>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 <br>
