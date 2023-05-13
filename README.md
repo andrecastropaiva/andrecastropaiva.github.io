@@ -19,12 +19,13 @@ I did 3 months intensive training in Data engineering using Python and SQL and h
 <br>
 <br>
 <br>
+<h2>Just for fun!</h2>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 <br>
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrecastropaiva&theme=dark"/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=andrecastropaiva&show_icons=true&theme=dark"/>
+<h2>Profile Statistics</h2>
+<code><img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrecastropaiva&theme=dark"></code>
+<code><img src="https://github-readme-stats.vercel.app/api?username=andrecastropaiva&show_icons=true&theme=dark"></code>
 
 <br>
 <br>
