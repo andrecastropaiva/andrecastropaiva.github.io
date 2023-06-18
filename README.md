@@ -1,19 +1,20 @@
-<h1>Hey, I'm Andre 👋 </h1>
-<strong>I’m a Data Engineer with interest in Data Science, Machine Learning and AI.</strong>
+<h1>Hey, Hello 👋🏼, I'm Andre, </h1>
+<strong>I'm a Data Engineer with a growing interest in Data Science, Machine Learning, and AI.</strong> 
 
-My professional experience has taught me to be a great team player, an attentive listener and enhanced my attention to detail. This alongside my educational accomplishments enable me to pursue my career goals and follow my passions in Technology and Business.
+I have a rich journey marked by adaptability and continuous learning. Upon moving to the UK, I overcame the initial challenges of a new language and job market. My resilience saw me ascending to management roles, where I developed crucial skills such as teamwork, problem-solving, listening and attention to detail. While working in management roles, I also earned a First Class Honours degree in Business Management from The Open University Business School before diving into tech with certifications in Web Development.
 
-I hold a First Class Honours degree in Business Management from The Open University Business School. This was accomplished while working full-time and took a great deal of organisational and time management skills.
+My fascination with data led me to an intensive data engineering training program, sharpening my skills in Python, SQL, AWS, and Azure. Now, I hold various certifications in Computer Science, Azure Data Engineering, Cloud Computing, and Databricks, demonstrating my commitment to ongoing learning and development.
 
-I love to learn new skills, I began my journey in tech with Web development and since then I never stopped up-skill. I hold a certificate in Responsive Web Development from freeCodeCamp by self-taught online, here I learned HTML, CSS and JavaScript. I also hold a certificate in Web Development from Bath Spa University, where I learned an understanding of Semantic HTML, CSS, LESS, Bootstrap, JavaScript, React, Node.js, prototyping in Figma and work with browser tools. Both of these certificates were accomplished while working full-time.
+Currently, I am deeply engaged in data engineering and am continually exploring how to optimise data pipelines and systems. Simultaneously, I've been upskilling in Data Science, ML, AI tools, and concepts like prompt engineering, guided by a profound passion for continuous learning.
 
-From there, I reflected, and realised that my passion is working with data, since my Business studies I always enjoyed doing business analysis and finding data insights.
-I did 3 months intensive training in Data engineering using Python and SQL and hold a certification of accomplishment. Alongside that, I also hold various Azure Data Engineering, Cloud computing, Data Science and AI as well as Databricks certifications.
+Given the ever-evolving nature of the tech field, I am excited about the journey ahead, anticipating the opportunities to grow and make meaningful contributions to various projects. I am driven by my love for learning, ready to embrace the challenges and opportunities that lie ahead in data engineering and beyond. 
+
+Thank you for your time.
 
 
 <ul>
 <li>💞️ I’m looking to collaborate on open source projects alongside my work.</li>
-<li>⚡️ My hobbies are Sports (Football, NFL, NBA, UFC, F1), exercising, travelling and hiking.</li>
+<li>⚡️ My hobbies are fitness, travelling and hiking.</li>
 </ul>
 👨🏻‍💻 Happy Coding!
 <br>
