@@ -4,13 +4,18 @@
 <br>
 I have a rich journey marked by adaptability and continuous learning. Upon moving to the UK, I overcame the initial challenges of a new language and job market. My resilience saw me ascending to management roles, where I developed crucial skills such as teamwork, problem-solving, listening and attention to detail. While working in management roles, I also earned a First Class Honours degree in Business Management from The Open University Business School before diving into tech with certifications in Web Development.
 <br>
+<br>
 My fascination with data led me to an intensive data engineering training program, sharpening my skills in Python, SQL, AWS, and Azure. Now, I hold various certifications in Computer Science, Azure Data Engineering, Cloud Computing, and Databricks, demonstrating my commitment to ongoing learning and development.
+<br>
 <br>
 Currently, I am deeply engaged in data engineering and am continually exploring how to optimise data pipelines and systems. Simultaneously, I've been upskilling in Data Science, ML, AI tools, and concepts like prompt engineering, guided by a profound passion for continuous learning.
 <br>
+<br>
 Given the ever-evolving nature of the tech field, I am excited about the journey ahead, anticipating the opportunities to grow and make meaningful contributions to various projects. I am driven by my love for learning, ready to embrace the challenges and opportunities that lie ahead in data engineering and beyond. 
 <br>
+<br>
 Thank you for your time.
+<br>
 <br>
 
 <ul>
